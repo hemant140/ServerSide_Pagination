@@ -1,0 +1,7 @@
+.btn {
+    text-transform: capitalize;
+    font-size: 10px;
+    border: 1px solid gray;
+    margin: 0;
+    padding: 0;
+}
